@@ -7,4 +7,8 @@ XYZ
 678
 222222
 KKKK
+<<<<<<< Updated upstream
 ZZZ->>
+=======
+PPP
+>>>>>>> Stashed changes
