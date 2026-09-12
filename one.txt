@@ -9,4 +9,8 @@ XYZ
 KKKK
 ZZZ->>
 PPP
+<<<<<<< Updated upstream
 New changes 2
+=======
+New changes 1
+>>>>>>> Stashed changes
